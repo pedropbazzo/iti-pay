@@ -14,14 +14,14 @@ export default function Home() {
         <Wrapper>
             <Container>
                 <Header>
-                    <MaterialCommunityIcons name="qrcode-scan" size={30} color="#10c86e" />
+                    <MaterialCommunityIcons name="qrcode-scan" size={30} color="#FB5882" />
 
                     <BalanceContainer>
                         <BalanceTitle>Meu Saldo</BalanceTitle>
-                        <Balance>R$ 0,00</Balance>
+                        <Balance>R$ ***** *** **</Balance>
                     </BalanceContainer>
 
-                    <AntDesign name="gift" size={30} color="#10c86e" />
+                    <AntDesign name="gift" size={30} color="#F5634E" />
                 </Header>
 
                 <Suggestions/>
