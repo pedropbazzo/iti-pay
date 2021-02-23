@@ -19,7 +19,7 @@ export const BalanceContainer = styled.View`
 `;
 
 export const BalanceTitle = styled.Text`
-    color: rgba(255, 255, 255, 0.8);
+    color: #ED6C1C;
     font-size: 14px;
     text-align: center;
 `;
