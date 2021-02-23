@@ -8,10 +8,10 @@ export default function Banner() {
     return (
         <Container>
             <Details>
-                <Title>Cobre um amigo</Title>
+                <Title>Pix</Title>
 
                 <Description>
-                    Mantenha suas parcerias em dia, use o PicPay para fazer suas cobranças.
+                você já pode fazer um no iti 24h por dia!
                 </Description>
             </Details>
 
